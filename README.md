@@ -9,3 +9,11 @@ cpan Text::Table
 `
 cpan GD::Graph
 `
+Print with Perl
+`
+perl calculate.pl <csv_file>
+`
+Produce results from data
+`
+./calculate.sh
+`
